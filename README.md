@@ -11,3 +11,4 @@ https://github.com/PYY-0617?tab=repositories
 9. https://github.com/PYY-0617/encryption
 10. https://github.com/PYY-0617/punish
 11. https://github.com/PYY-0617/jsfxck
+12. https://github.com/PYY-0617/seedrandom_-
